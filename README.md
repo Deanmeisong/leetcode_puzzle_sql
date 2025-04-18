@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1226-user-purchase-platform](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1226-user-purchase-platform) |
 | [1269-market-analysis-ii](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1269-market-analysis-ii) |
 | [1518-total-sales-amount-by-year](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1518-total-sales-amount-by-year) |
+| [1546-find-the-quiet-students-in-all-exams](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1546-find-the-quiet-students-in-all-exams) |
 <!---LeetCode Topics End-->
