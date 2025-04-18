@@ -10,4 +10,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-game-play-analysis-v](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1193-game-play-analysis-v) |
 | [1198-unpopular-books](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1198-unpopular-books) |
 | [1226-user-purchase-platform](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1226-user-purchase-platform) |
+| [1269-market-analysis-ii](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1269-market-analysis-ii) |
 <!---LeetCode Topics End-->
