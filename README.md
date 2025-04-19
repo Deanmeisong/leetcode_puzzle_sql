@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-find-the-quiet-students-in-all-exams](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1546-find-the-quiet-students-in-all-exams) |
 | [1623-sales-by-day-of-the-week](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1623-sales-by-day-of-the-week) |
 | [1914-find-the-subtasks-that-did-not-execute](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/1914-find-the-subtasks-that-did-not-execute) |
+| [2046-page-recommendations-ii](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2046-page-recommendations-ii) |
 <!---LeetCode Topics End-->
