@@ -18,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2046-page-recommendations-ii](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2046-page-recommendations-ii) |
 | [2063-leetcodify-friends-recommendations](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2063-leetcodify-friends-recommendations) |
 | [2120-first-and-last-call-on-the-same-day](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2120-first-and-last-call-on-the-same-day) |
+| [2253-build-the-equation](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2253-build-the-equation) |
 | [3719-team-dominance-by-pass-success](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3719-team-dominance-by-pass-success) |
 <!---LeetCode Topics End-->
