@@ -22,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-finding-the-topic-of-each-post](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2335-finding-the-topic-of-each-post) |
 | [2381-dynamic-pivoting-of-a-table](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2381-dynamic-pivoting-of-a-table) |
 | [2501-generate-the-invoice](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2501-generate-the-invoice) |
+| [2637-merge-overlapping-events-in-the-same-hall](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2637-merge-overlapping-events-in-the-same-hall) |
 | [3719-team-dominance-by-pass-success](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3719-team-dominance-by-pass-success) |
 <!---LeetCode Topics End-->
