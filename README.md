@@ -24,5 +24,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-generate-the-invoice](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2501-generate-the-invoice) |
 | [2637-merge-overlapping-events-in-the-same-hall](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2637-merge-overlapping-events-in-the-same-hall) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
+| [3288-top-three-wineries](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3288-top-three-wineries) |
 | [3719-team-dominance-by-pass-success](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3719-team-dominance-by-pass-success) |
 <!---LeetCode Topics End-->
