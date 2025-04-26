@@ -29,5 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-viewers-turned-streamers](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3302-viewers-turned-streamers) |
 | [3357-employees-project-allocation](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3357-employees-project-allocation) |
 | [3366-user-activities-within-time-bounds](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3366-user-activities-within-time-bounds) |
+| [3369-calculate-trapping-rain-water](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3369-calculate-trapping-rain-water) |
 | [3719-team-dominance-by-pass-success](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3719-team-dominance-by-pass-success) |
 <!---LeetCode Topics End-->
