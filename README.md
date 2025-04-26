@@ -27,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3288-top-three-wineries](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3288-top-three-wineries) |
 | [3301-friday-purchases-ii](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3301-friday-purchases-ii) |
 | [3302-viewers-turned-streamers](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3302-viewers-turned-streamers) |
+| [3366-user-activities-within-time-bounds](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3366-user-activities-within-time-bounds) |
 | [3719-team-dominance-by-pass-success](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3719-team-dominance-by-pass-success) |
 <!---LeetCode Topics End-->
