@@ -31,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3366-user-activities-within-time-bounds](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3366-user-activities-within-time-bounds) |
 | [3369-calculate-trapping-rain-water](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3369-calculate-trapping-rain-water) |
 | [3409-find-trending-hashtags-ii](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3409-find-trending-hashtags-ii) |
+| [3503-find-top-scoring-students-ii](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3503-find-top-scoring-students-ii) |
 | [3719-team-dominance-by-pass-success](https://github.com/Deanmeisong/leetcode_puzzle_sql/tree/master/3719-team-dominance-by-pass-success) |
 <!---LeetCode Topics End-->
